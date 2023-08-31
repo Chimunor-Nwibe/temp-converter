@@ -1,0 +1,13 @@
+*{ box-sizing: border-box;}
+body{text-align: center;background-color: rgb(27, 27, 27);height: 800px;}
+section, header{border: solid rgba(255, 0, 13, 0.7) 3px;}
+section{color: rgba(0, 255, 255, 0.5);}
+input[type=number]{margin-left: 15px;}
+h1{color: red;text-decoration: wavy;}
+h4{margin-left: -80px; }
+h2{margin-left:-60px;font-size:30px}
+h3{margin-left:-180px}
+label{font-size: 20px;}
+button{ background-color: rgb(2, 236, 248);color: black;margin-top: 15px;border-color: red;}
+span{margin-left: 20px;}
+a{color: black; text-decoration:none}
